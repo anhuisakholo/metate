@@ -161,7 +161,7 @@
 <a href="https://206.189.95.87:288/" target="_blank" rel="nofollow noreferrer"><span class="tron-login">LOGIN</span></a>
     </div>
     <div class="col-xs-6">
-<a href="https://206.189.95.87:288/?content=register" target="_blank" rel="nofollow noreferrer"><span class="tron-regis">DAFTAR</span></a>
+<a href="https://206.189.95.87:288/account/register" target="_blank" rel="nofollow noreferrer"><span class="tron-regis">DAFTAR</span></a>
     </div>
 </div>
     </div>
@@ -349,11 +349,11 @@
 </div>
 </div>
 <div class="fixed-footer">
-    <a href="https://206.189.95.87:288/?content=promo" rel="nofollow noopener" target="_blank">
+    <a href="https://206.189.95.87:288/promotion" rel="nofollow noopener" target="_blank">
 <amp-img layout="intrinsic" height="75" width="75" src="https://i.ibb.co/5RGFQDk/bonus-mqwb4s-1.png" alt="Bonus Promo MVP288"></amp-img>
 Bonus
     </a>
-    <a href="https://206.189.95.87:288/?content=register" rel="nofollow noopener" target="_blank" class="tada">
+    <a href="https://206.189.95.87:288/account/register" rel="nofollow noopener" target="_blank" class="tada">
 <amp-img class="center" layout="intrinsic" height="50" width="50" src="https://i.ibb.co/5Mww281/user-yzbufa.png" alt="Daftar Slot Gacor MVP288"></amp-img>
 Daftar
     </a>
